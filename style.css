@@ -1,0 +1,18 @@
+body {
+	background: #ccc;
+}
+
+.images {
+	width: 450px;
+	height: auto;
+}
+
+#index-body {
+	background-image: url(images/restaurant-table-with-cutlery.jpg);
+	background-size: cover;
+	color: #fff;
+}
+
+a {
+	color: #e8e113;
+}
