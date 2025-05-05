@@ -1,23 +1,28 @@
 body {
-	background: #ccc;
-	font-family: 'Montserrat', Helvetica, sans-serif;
+    background: #ccc;
+    font-family: "Montserrat", Helvetica, sans-serif;
 }
 
 .images {
-	width: 450px;
-	height: auto;
+    width: 450px;
+    height: auto;
 }
 
 #index-body {
-	background-image: url(images/restaurant-table-with-cutlery.jpg);
-	background-size: cover;
-	color: #fff;
+    background-color: #ccc;
+    background-size: cover;
+    color: #fff;
 }
 
 a {
-	color: #e8e113;
+    color: blue;
 }
 
 h2 {
-	text-decoration: underline;
+    text-decoration: underline;
+}
+
+li {
+    list-style-type: none;
+    padding: 10px 0;
 }
